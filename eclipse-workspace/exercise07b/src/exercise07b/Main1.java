@@ -143,7 +143,7 @@ class BrowserHistory {
 	}
 }
 
-class Main {
+class Main1 {
 	public static void main(String[] args) {
 		BrowserHistory browserHistory = new BrowserHistory();
 		String continueOption;
